@@ -4,9 +4,10 @@
  */
 
 export const tokens = {
-  colorPrimary: "#0057c2",
-  colorInfo: "#0057c2",
-  colorSuccess: "#00a35c",
+   "colorPrimary": "#ff9500",
+    "colorInfo": "#ff9500",
+    "colorSuccess": "#80f438",
+    "fontSize": 15,
   colorWarning: "#ff9900",
   colorError: "#ba1a1a",
   tertiary: "#9e3d00",
